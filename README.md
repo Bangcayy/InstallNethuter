@@ -1,16 +1,21 @@
 # InstallNethuter
 
--Install Kali Nethuter Desktop 200mb
+♠Install Kali Nethuter Desktop 200mb
 
--Install App
+
+♠Install App
+
 
 •Termux From Fdroid
 
 •VncViewer
 
--Open Termux
 
--Coppy This Command
+♠Open Termux
+
+
+♠Coppy This Command
+
 
 •termux-setup-storage
 
@@ -23,11 +28,15 @@
 • ./install-nethunter-termux
 
 
--Pilih no 3 atau Nano
+♠Pilih no 3 atau Nano
+
 
 •./install-nethunter-termux
 
--Jika ada pilihan ketik n
+
+
+♠Jika ada pilihan ketik n
+
 
 
 •nh
@@ -36,26 +45,42 @@
 
 •sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kali.sh ; chmod +x de-kali.sh ; ./de-kali.sh
 
--Tunggu sampai instalasi selesai dan jika ada pilihan pilih sesuai keinginan kalian
 
--Untuk Menjalankan Desktop nya Ketik
+
+♠Tunggu sampai instalasi selesai dan jika ada pilihan pilih sesuai keinginan kalian
+
+
+
+♠Untuk Menjalankan Desktop nya Ketik
+
+
 
 •vnc-start
 
--Set password untuk vnc yaitu
+
+
+♠Set password untuk vnc yaitu
+
+
 
 •123456
 
 •n
 
--Buka VncViewer
 
--Nethunter
 
--localhost:1       5901
+♠Buka VncViewer
 
--Kali
 
--123456
+♠Nethunter
 
--Selamat Nethunter 200mb Sudah siapp
+♠localhost:1            5901
+
+♠Kali
+
+♠123456
+
+♠Selamat Nethunter 200mb Sudah siapp
+
+
+♣Jika Terdapat Error Tanyakan Pada ChatGpt♠
